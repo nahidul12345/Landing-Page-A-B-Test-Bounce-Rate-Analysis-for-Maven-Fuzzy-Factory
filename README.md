@@ -1,6 +1,6 @@
 # 🧾 Landing Page A/B Test – Maven Fuzzy Factory
 
-![A/B Testing Excel Analysis](AB_Tasting.png)
+![A/B Testing Excel Analysis](AB Tasting.png)
 
 ---
 
