@@ -1,5 +1,9 @@
 # 🧾 Landing Page A/B Test – Maven Fuzzy Factory
 
+![A/B Testing Excel Analysis](AB_Tasting.png)
+
+---
+
 ## 🧩 Problem
 Maven Fuzzy Factory, an online retailer that sells children’s toys, noticed that their homepage had an unusually **high bounce rate (around 60%)**.  
 This meant that many visitors were leaving the site after viewing only one page, without exploring further.  
