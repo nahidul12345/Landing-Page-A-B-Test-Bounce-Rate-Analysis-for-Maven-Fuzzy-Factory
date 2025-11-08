@@ -43,8 +43,14 @@ As a **Marketing Analyst**, I conducted a complete A/B test analysis with the fo
 ---
 
 ## 🧠 Insight
-This project demonstrates how **data-driven decision making** can validate design improvements.  
+This project demonstrates how **data-driven decision-making** can validate design improvements.  
 Using A/B testing and statistical analysis, we proved that the new landing page led to a **significant decrease in bounce rate**, improving overall user engagement for Maven Fuzzy Factory.
+
+---
+
+## 🔗 Project Link
+You can view the full project on Maven Showcase here:  
+👉 **[Landing Page A/B Test – Maven Showcase](https://mavenshowcase.com/project/53889)**  
 
 ---
 
